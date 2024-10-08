@@ -9,8 +9,8 @@ I'm **Md. Shadman Abid**, welcome to my GitHub profile! Here, you can find vario
 Feel free to explore my repositories. Please reach out if you have any questions!
 
 ## 🌐 Portfolio & Research
-- **Portfolio**: [](https://mdshadmanabid.com)
-- **Google Scholar**: [](https://scholar.google.com/citations?user=FiqpeIkAAAAJ&hl=en)
+- **Portfolio**: [Visit my Portfolio](https://mdshadmanabid.com)
+- **Google Scholar**: [Visit my Google Scholar](https://scholar.google.com/citations?user=FiqpeIkAAAAJ&hl=en)
 
 ### Repositories
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A01bidShad37man99455&layout=compact&langs_count=6&theme=default&hide=html,css" alt="Languages">
