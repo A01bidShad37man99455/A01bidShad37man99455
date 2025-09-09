@@ -19,3 +19,6 @@ Feel free to explore my repositories. Please reach out if you have any questions
 ![Profile Views](https://komarev.com/ghpvc/?username=A01bidShad37man99455&color=blue)
 
 
+### Most active GitHub users in Oman
+[![committers.top badge](https://user-badge.committers.top/oman_public/A01bidShad37man99455.svg)](https://user-badge.committers.top/oman_public/A01bidShad37man99455)
+
